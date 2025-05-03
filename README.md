@@ -1,6 +1,6 @@
 Hi, I'm Anuraj Pant! 👋
 Full-Stack Developer | React, TypeScript, Node.js
-I'm a Computer Science student at Southeastern Louisiana University (Expected Dec 2025), passionate about building user-focused web applications. With experience in full-stack development and tutoring, I create scalable solutions using React, Node.js, and .NET. As an international student, I’m seeking software development internships that support CPT/OPT and H-1B sponsorship.
+I'm a Computer Science student at Southeastern Louisiana University (Expected Dec 2025), passionate about building user-focused web applications. With experience in full-stack development and tutoring, I create scalable solutions using React, Node.js, and .NET. As an international student, I’m seeking software development internships.
 🚀 Key Projects
 
 Lion’s Den Movie Theater App: Full-stack app with seat booking and QR ticketing (React, TypeScript, .NET, Tailwind CSS).  
