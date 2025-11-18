@@ -26,6 +26,7 @@ Full-stack developer focusing on React, TypeScript, .NET, Node.js, and AI/RAG sy
 I build modern, fast, production-ready apps with strong UI/UX and clean engineering.
 
 🧩 Featured Projects
+
 🎬 Lion’s Den Theaters — Full-Stack Ticketing Platform
 
 React + TS + .NET + SQL Server — Real-time seat booking, QR tickets, admin panel.
