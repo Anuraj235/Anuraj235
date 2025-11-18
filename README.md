@@ -13,90 +13,169 @@ I build modern, scalable applications with strong UI/UX, clean architecture, and
 
 ---
 
-✨ **Frontend engineering** (React + Tailwind + TypeScript)  
-⚙️ **Backend systems** (Node.js, .NET, FastAPI)  
-🧠 **Applied AI** (RAG, embeddings, NLP, AI-generated media)  
-📱 **Real-world product experiences** (ticketing, dashboards, messaging, video tools)
+✨ **Frontend Engineering** (React, Next.js, Tailwind CSS, TypeScript, Blazor)  
+⚙️ **Backend Systems** (Node.js, Express, .NET Core Web API, FastAPI, Flask)  
+🧠 **Applied AI** (RAG, vector search, embeddings, NLP, AssemblyAI, ElevenLabs)  
+📱 **Real-World Product Experience** (ticketing systems, dashboards, messaging apps, AI video tools)  
+💡 **Hardware Projects** (Swift iOS apps, Raspberry Pi projects, Python automation)
 
-As an international student passionate about solving real problems with software, I'm actively seeking **Software Engineering / Full-Stack / AI Engineering internships**.
+As an international Computer Science student focused on building real, production-grade applications, I am actively seeking **Software Engineering / Full-Stack / AI Engineering internships**.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎬 **Lion’s Den Theaters (Full-Stack Ticketing System)**  
+### 🎬 **Lion’s Den Theaters — Full-Stack Movie Ticketing System**  
 🔗 https://github.com/Anuraj235/Lions-Den-Theaters  
-A complete movie ticketing system featuring:
-- Live seat-map visualization (premium vs standard)  
-- QR-code ticket generation  
-- Guest & authenticated checkout  
-- Admin dashboard for movies, showtimes, theaters  
-- React + TypeScript + Tailwind + .NET Web API  
 
-Designed like a real commercial theater system.
+**Stack:** React • TypeScript • Tailwind CSS • .NET 7 Web API • SQL Server • JWT Auth  
+
+A real-world ticket booking system with:
+- Live **seat-selector** map (premium, standard, disabled seats)  
+- **Real-time** seat availability with backend validation  
+- QR-coded digital tickets  
+- **Guest checkout** (email-only)  
+- Full admin console:
+  - Manage movies
+  - Manage showtimes
+  - Manage theaters  
+- Clean, modern UI with animations & responsive design  
+
+Built like an actual commercial theater platform.
 
 ---
 
-### 🛰 **NASA Films (Movie Booking Platform)**  
+### 🛰 **NASA Films — Cinematic Movie Booking Platform**  
 🔗 https://github.com/Anuraj235/Nasa-Films  
-A multi-page, responsive booking platform using:
-- ASP.NET MVC  
-- React.js  
-- Bootstrap  
-- Admin + client flow  
 
-Built as a fully functional cinema booking user experience.
+**Stack:** ASP.NET MVC • React.js • Bootstrap • C# • Razor  
+
+Features:
+- Movie browsing, filtering, and seat selection  
+- CMS-style admin panel for content updates  
+- Multi-page design with layered React interactivity  
+- Responsive UI + Bootstrap theming  
+
+A polished, enterprise-style full-stack system.
 
 ---
 
-### 🤖 **RAG Observable (AI Assistant with Source Transparency)**  
+### 🤖 **RAG Observable — AI Assistant with Transparent Sources**  
 🔗 https://github.com/Anuraj235/rag-observable  
-A full Retrieval-Augmented Generation system with:
-- FastAPI backend  
-- ChromaDB vector store  
-- React trust-panel UI  
-- Evidence highlighting + chunk preview  
-- Trust score, distance metrics, chunk relevance  
 
-A complete learning + demo tool that teaches RAG concepts transparently.
+**Stack:** FastAPI • Python • ChromaDB • SentenceTransformers • React • TypeScript  
+
+Includes:
+- Retrieval-Augmented Generation (RAG) pipeline  
+- Chunk ranking, distance grading, relevance scoring  
+- **Interactive Trust Panel UI**  
+- Evidence highlighting  
+- Chunk preview on hover + pin  
+- Run history, trust metrics, top-k tuning  
+
+A complete educational + production-ready RAG system.
 
 ---
 
-### 💬 **Message Exchange System (Threaded Messaging + Topic Model)**  
+### 💬 **Message Exchange System — Threaded Messaging App**  
 🔗 https://github.com/Anuraj235/message-exchange-system  
-A Node.js + Express + MongoDB communication app:
-- Topics, posts, comments  
-- Voting system  
-- Subscription model  
-- Authentication & dashboard UI  
-- Dynamic feed with Bootstrap design  
+
+**Stack:** Node.js • Express • MongoDB • Mongoose • EJS • Bootstrap • REST API  
+
+Features:
+- Topic creation, subscriptions, and dashboards  
+- Multi-threaded posts & comments  
+- Voting system, activity feed  
+- Dark/Light mode  
+- Secure auth flow & user dashboard  
+
+A clean, well-structured backend + dynamic front-end.
 
 ---
 
-### 🎞 **ClipFlick — The Viral Short-Form Video Generator (AI Media Tool)**  
+### 🎞 **ClipFlick — Viral Short-Form Video Generator (AI Media Tool)**  
 *(Link coming soon)*  
-A video automation tool that:
-- Downloads long videos  
-- Extracts viral moments  
-- Generates captions using AssemblyAI  
-- Adds voiceovers using ElevenLabs  
-- Auto-exports ready-to-post vertical clips  
-- Uses FFmpeg for rendering, React for UI  
 
-Goal: automate YouTube Shorts, Reels, and TikTok content creation.
+**Stack:** Python • FFmpeg • yt-dlp • AssemblyAI • ElevenLabs • React + Tailwind  
+
+Capabilities:
+- Downloads long-form videos  
+- Automatically extracts viral short clips  
+- AI-generated captions (SRT → burned subtitles)  
+- AI voiceovers (ElevenLabs TTS)  
+- Automatic vertical formatting (9:16)  
+- Ready-to-post output for TikTok, Reels, YouTube Shorts  
+
+Goal: fully automate the viral content creation pipeline.
 
 ---
 
 ### 📄 **AI Contract Expert — Intelligent Contract Reviewer**  
 *(Link coming soon)*  
-A workflow-based AI tool that:
-- Parses contracts  
-- Extracts clauses & obligations  
-- Detects risk using embeddings  
-- Summarizes, rewrites, and compares agreements  
-- Provides annotated side-by-side comparisons  
 
-Built for real-world legal & business workflows.
+**Stack:** Python • RAG • vector database • .NET backend (planned) • React front-end  
+
+Features:
+- Clause extraction & entity detection  
+- AI contract comparisons  
+- Risk scoring using embeddings  
+- Annotated side-by-side diff view  
+- Rewrite + summarize + generate insights  
+
+Designed for legal departments & business workflows.
+
+---
+
+## 🧰 Additional Projects
+
+### 🎮 **Tic-Tac-Toe iOS App (with AI)**  
+**Stack:** Swift • UIKit • Xcode  
+
+Features:
+- Human vs AI gameplay  
+- Minimax algorithm for unbeatable AI  
+- Smooth UI animations  
+- Victory detection & replay system  
+
+Built as an early mobile development project.
+
+---
+
+### 💡 **AI Lamp (Raspberry Pi Voice Assistant)**  
+**Stack:** Python • Raspberry Pi • SpeechRecognition • LEDs • Sensors  
+
+Features:
+- Voice-controlled LED lamp  
+- “Smart” behavior using Python scripts  
+- Auto-brightness via light sensor  
+- Hotword detection + verbal responses  
+
+Combined hardware, Python, and embedded computing.
+
+---
+
+### 🔊 **Blazor Tools / Web UI Experiments**  
+**Stack:** Blazor • .NET • Tailwind  
+
+- UI components  
+- Micro front-end tools  
+- Dashboard prototypes  
+
+These support your understanding of .NET web technologies beyond APIs.
+
+---
+
+### 🌐 **Portfolio Website (Next.js + Tailwind)**  
+**Stack:** Next.js • Tailwind CSS • TypeScript • Framer Motion  
+
+Includes:
+- Hero animations  
+- Projects carousel  
+- Live blog system  
+- Sticky CTA banners  
+- Glassmorphism sections  
+
+Modern, elegant, and fully responsive.
 
 ---
 
@@ -121,23 +200,92 @@ Built for real-world legal & business workflows.
 
 ## 🧠 Skills
 
-### **Languages**
-JavaScript, TypeScript, Python, C#, Java, Swift  
+### 🧩 **Languages**
+- JavaScript / TypeScript  
+- Python  
+- C# (.NET)  
+- Java  
+- Swift  
+- SQL  
 
-### **Frontend**
-React.js, Next.js, Tailwind CSS, Bootstrap, Vite  
+---
 
-### **Backend**
-Node.js, Express.js, .NET Core Web API, Flask, FastAPI  
+### 🎨 **Frontend**
+- React.js  
+- Next.js  
+- Tailwind CSS  
+- Bootstrap  
+- Vite  
+- HTML5 / CSS3  
+- Framer Motion  
+- Responsive UI/UX Design  
 
-### **AI / Data**
-Embeddings, RAG, ChromaDB, NLP, TensorFlow, AssemblyAI, ElevenLabs  
+---
 
-### **Databases**
-MongoDB, MySQL, PostgreSQL, SQL Server  
+### ⚙️ **Backend**
+- Node.js  
+- Express.js  
+- ASP.NET Core Web API  
+- Flask  
+- FastAPI  
+- REST API Design  
+- Authentication (JWT / OAuth)  
 
-### **Tools & Platforms**
-Git/GitHub, AWS, Azure, Docker, Postman, Visual Studio, VS Code  
+---
+
+### 🤖 **AI / Machine Learning**
+- Retrieval-Augmented Generation (RAG)  
+- Embeddings (OpenAI, SentenceTransformers)  
+- Vector Databases: **ChromaDB, Qdrant**  
+- NLP & LLM Prompt Engineering  
+- Model Observability + Evaluation (Precision@k, Recall@k)  
+- TensorFlow  
+- AssemblyAI (Speech-to-Text, Transcription)  
+- ElevenLabs (AI Voiceovers / TTS)  
+- FFmpeg (Video/Audio Processing)  
+- Whisper + yt-dlp (Clip processing)  
+
+---
+
+### 📊 **Data & Analytics**
+- Pandas  
+- NumPy  
+- Data Cleaning + Visualization  
+- JSON / CSV Pipelines  
+
+---
+
+### 🗄️ **Databases**
+- MongoDB  
+- MySQL  
+- PostgreSQL  
+- SQL Server  
+- Prisma ORM  
+- Entity Framework Core  
+
+---
+
+### ☁️ **Cloud & DevOps**
+- **Docker**  
+- AWS (EC2, S3, IAM)  
+- Azure (App Services, Functions)  
+- GitHub Actions (CI/CD)  
+- Version Control (Git)  
+- Environment Management (Conda / venv)  
+
+---
+
+### 🛠️ **Tools & Platforms**
+- Git / GitHub  
+- Postman  
+- VS Code  
+- Visual Studio  
+- WinSCP  
+- Trello / Jira / Agile Workflows  
+- PDF Generation / QR Ticketing  
+- Stripe (Payments — if added later)  
+
+
 
 ### **Other Strengths**
 - UI/UX improvement  
@@ -151,6 +299,8 @@ Git/GitHub, AWS, Azure, Docker, Postman, Visual Studio, VS Code
 ## 🏆 Achievements
 - **President’s List** (multiple semesters)  
 - **Dean’s List**  
+- **Larry Hymel Scholarship** 
+- **Emmy Award for Sports Broadcasting** 
 - Treasurer, Nepalese Student Association at SLU  
 - Built **8+ full-stack projects** before junior year  
 - Created advanced AI prototypes integrated with production-ready UI  
