@@ -13,51 +13,6 @@ I build modern, scalable applications with strong UI/UX, clean architecture, and
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Lion’s Den Movie App  
-Full movie booking system with:  
-- Real-time seat selection  
-- QR ticketing  
-- Admin dashboard  
-- Theater management  
-**Tech:** React, TypeScript, Tailwind, ASP.NET Core
-
----
-
-### 🤖 ClipFlick – Viral AI Clip Generator  
-Converts any YouTube video into a polished viral short.  
-- AssemblyAI transcription  
-- ElevenLabs voiceovers  
-- FFmpeg caption overlay  
-- React + Tailwind UI  
-**Tech:** Python, FFmpeg, React, Node.js
-
----
-
-### 📄 AI Contract Expert  
-LLM-powered contract analyzer with OCR, clause extraction, and Q&A.  
-**Tech:** ASP.NET, OCR, React, Python
-
----
-
-### 💬 Message Exchange Platform  
-Community posting platform with topics, comments, voting, and MongoDB.  
-**Tech:** Node.js, Express, MongoDB, EJS
-
----
-
-## 🧰 Skills
-
-**Languages:** TypeScript, JavaScript, Python, C#, Java  
-**Frameworks:** React, Node.js, .NET Core, Tailwind CSS  
-**Cloud & Tools:** Azure, AWS, Git, Postman  
-**Databases:** MongoDB, PostgreSQL, MySQL, SQL Server  
-
----
-
-I love building fast, modern, user-centered applications—from **AI-powered tools** to **enterprise-grade full-stack systems**. My work sits at the intersection of:
-
 ✨ **Frontend engineering** (React + Tailwind + TypeScript)  
 ⚙️ **Backend systems** (Node.js, .NET, FastAPI)  
 🧠 **Applied AI** (RAG, embeddings, NLP, AI-generated media)  
@@ -117,8 +72,6 @@ A Node.js + Express + MongoDB communication app:
 - Dynamic feed with Bootstrap design  
 
 ---
-
-## 🛠 Upcoming / In-Progress Projects
 
 ### 🎞 **ClipFlick — The Viral Short-Form Video Generator (AI Media Tool)**  
 *(Link coming soon)*  
