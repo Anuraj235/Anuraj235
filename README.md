@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://anurajpant.com.np"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/anuraj235"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:anurajpant.cs@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:pantanuraj31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/Anuraj235"><img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <img src="https://komarev.com/ghpvc/?username=Anuraj235&style=for-the-badge&color=7AA2F7&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
@@ -119,7 +119,7 @@ const anuraj = {
 
 ### 🏆 Highlights
 
-- 🎓 **President's List** & **Dean's List** — Computer Science, Southeastern Louisiana University
+- 🎓 **President's List** — Computer Science, Southeastern Louisiana University
 - 💰 **Larry Hymel Scholarship** recipient
 - 🏅 **Emmy Award** — Sports Broadcasting Team
 - 🧱 Built **10+** full-stack & AI projects from concept to production
